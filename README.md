@@ -36,7 +36,7 @@ Collaborators:
 
 Samson Kneller
 
-Dalmarr Hussien
+Dalmarr Hussein
 
 Nick Hemingway
 
